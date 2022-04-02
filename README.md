@@ -1,3 +1,6 @@
+# AjNews App 
+Aj News app is a news app made with the help of React class based components. This app uses News API to show the latest news of different categories to keep yourself updated.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
